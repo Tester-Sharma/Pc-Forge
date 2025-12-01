@@ -1,4 +1,4 @@
-# � PCForge – Custom PC Builder
+# 🔥 PCForge – Custom PC Builder
 
 PCForge is a robust, web-based application designed to simplify the process of building a custom PC. It features a smart compatibility engine, real-time price calculation, and a sleek **Dark Mode** interface inspired by GitHub.
 
@@ -20,7 +20,7 @@ PCForge is a robust, web-based application designed to simplify the process of b
 
 ---
 
-## �️ Technology Stack
+## 🔧 Technology Stack
 
 *   **Frontend**: HTML5, CSS3 (Custom Dark Theme), JavaScript (Vanilla).
 *   **Backend**: PHP (Core, No Framework).
@@ -43,7 +43,7 @@ PCForge is a robust, web-based application designed to simplify the process of b
 
 ---
 
-## � Project Structure
+## 📁 Project Structure
 
 ```text
 PcForge/
@@ -82,7 +82,7 @@ The project utilizes a **Dark Theme** color palette for a modern, developer-frie
 | **Text Main** | Light Gray | `#c9d1d9` |
 | **Text Muted** | Gray | `#8b949e` |
 
-## � User Flow
+## 🔄 User Flow
 
 1.  **Home**: Landing page with quick access to Builder.
 2.  **Auth**: User registers with a **Username** and Password.
