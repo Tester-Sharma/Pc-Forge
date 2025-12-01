@@ -38,12 +38,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Admin Login - PCForge</title>
     <link rel="stylesheet" href="../assets/css/style.css">
 </head>
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; background: #f6f8fa;">
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 
 <div class="card" style="width: 100%; max-width: 400px;">
     <div class="card-header text-center">Admin Panel Login</div>
     <?php if ($error): ?>
-        <div style="color: #d73a49; margin-bottom: 1rem; padding: 0.5rem; background: #ffeef0; border: 1px solid #f97583; border-radius: 4px;">
+        <div style="color: #da3633; margin-bottom: 1rem; padding: 0.5rem; background: rgba(218, 54, 51, 0.1); border: 1px solid #da3633; border-radius: 4px;">
             <?php echo htmlspecialchars($error); ?>
         </div>
     <?php endif; ?>
